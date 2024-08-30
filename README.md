@@ -1,2 +1,2 @@
 # MVCpenatlies
-#Edvard Datser, Maksim Miskevych, Anton Buivol
+Edvard Datser, Maksim Miskevych, Anton Buivol
